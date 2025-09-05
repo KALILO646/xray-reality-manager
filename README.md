@@ -250,17 +250,6 @@ print(f"Status: {status['status']}")
 print(f"Nodes: {len(status['node_statuses'])}")
 ```
 
-## Вклад в проект
-
-Мы приветствуем вклад в развитие проекта! Пожалуйста, ознакомьтесь с [руководством по вкладу](CONTRIBUTING.md) перед отправкой pull request.
-
-## Поддержка
-
-Если у вас есть вопросы или проблемы:
-
-- [Создайте issue](https://github.com/your-username/xray-reality-manager/issues)
-- [Обсуждения](https://github.com/your-username/xray-reality-manager/discussions)
-
 ## Лицензия
 
 Этот проект лицензирован под [MIT License](LICENSE) - см. файл LICENSE для деталей.
